@@ -1,4 +1,4 @@
-# Foodzilla-PARSEC2020-
+# Foodzilla-PARSEC2020
 
 ## The problem FoodZilla solves
 
